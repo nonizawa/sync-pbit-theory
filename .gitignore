@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+.cache/
+.mplconfig/
+.ipynb_checkpoints/
+
+# Outputs
+energy_logs/
+theory_transient_6graphs/
+theory_transient_6graphs_ipr/
+*.csv
+*.png
+*.pdf
+*.svg
